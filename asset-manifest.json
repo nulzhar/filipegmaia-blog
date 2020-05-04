@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/filipegmaia-blog/static/css/main.7da8013d.chunk.css",
+    "main.js": "/filipegmaia-blog/static/js/main.acb15ccd.chunk.js",
+    "main.js.map": "/filipegmaia-blog/static/js/main.acb15ccd.chunk.js.map",
+    "runtime-main.js": "/filipegmaia-blog/static/js/runtime-main.f41c26d0.js",
+    "runtime-main.js.map": "/filipegmaia-blog/static/js/runtime-main.f41c26d0.js.map",
+    "static/js/2.046d5282.chunk.js": "/filipegmaia-blog/static/js/2.046d5282.chunk.js",
+    "static/js/2.046d5282.chunk.js.map": "/filipegmaia-blog/static/js/2.046d5282.chunk.js.map",
+    "index.html": "/filipegmaia-blog/index.html",
+    "precache-manifest.9b1b06f8eba92f432940df7bc8a93c4e.js": "/filipegmaia-blog/precache-manifest.9b1b06f8eba92f432940df7bc8a93c4e.js",
+    "service-worker.js": "/filipegmaia-blog/service-worker.js",
+    "static/css/main.7da8013d.chunk.css.map": "/filipegmaia-blog/static/css/main.7da8013d.chunk.css.map",
+    "static/js/2.046d5282.chunk.js.LICENSE.txt": "/filipegmaia-blog/static/js/2.046d5282.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f41c26d0.js",
+    "static/js/2.046d5282.chunk.js",
+    "static/css/main.7da8013d.chunk.css",
+    "static/js/main.acb15ccd.chunk.js"
+  ]
+}
